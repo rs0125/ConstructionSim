@@ -33,57 +33,57 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BeltHolder_BaseColor
-    second: {fileID: 2800000, guid: 98d9e82c2cb8d7644a1c343c85022160, type: 3}
+    second: {fileID: 2800000, guid: e29fc2fb658907449ad91ba2a2815172, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BeltHolder_Metallic
-    second: {fileID: 2800000, guid: c14ff55c3db07894b9da16894ceeb131, type: 3}
+    second: {fileID: 2800000, guid: 5b20176d26e112c499607139696ec36b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BeltHolder_Normal
-    second: {fileID: 2800000, guid: 9528feb5dd08dcd4d8f2be88afbec311, type: 3}
+    second: {fileID: 2800000, guid: 5dc0485f4d052ab41b224731f3c8dede, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: ChinPillow_BaseColor
-    second: {fileID: 2800000, guid: cc0ca02b944e43248bd8ca2534000028, type: 3}
+    second: {fileID: 2800000, guid: 85ff0897ba4e52845801a77b4119d5f2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: ChinPillow_Metallic
-    second: {fileID: 2800000, guid: 4933547dedfdad94683391732b45422d, type: 3}
+    second: {fileID: 2800000, guid: 612cc6c13fa25574997ace7ff3da485a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: ChinPillow_Normal
-    second: {fileID: 2800000, guid: 151863caf03285349a036b74cd0448d1, type: 3}
+    second: {fileID: 2800000, guid: f90e1044d053d7d43a6ba1e450578e25, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: ChinPillow_Roughness
-    second: {fileID: 2800000, guid: c07598596f43eb7469fb6f470af4efac, type: 3}
+    second: {fileID: 2800000, guid: c3ed964d130c1ba4da85e3a229cf5440, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: HeadCushion_BaseColor
-    second: {fileID: 2800000, guid: df49da9bcdadf184aa05221563405718, type: 3}
+    second: {fileID: 2800000, guid: 2695e28f822b939458b89aac1d815dd7, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: HeadCushion_Metallic
-    second: {fileID: 2800000, guid: 58d1576863e865a40a6f3d25a54b476b, type: 3}
+    second: {fileID: 2800000, guid: ec71c2cb103414a4ea3f3187f6217d6c, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: HeadCushion_Normal
-    second: {fileID: 2800000, guid: 6a52de4e624b692409723fdb68250b71, type: 3}
+    second: {fileID: 2800000, guid: 862b74c1c442a25478964239c3427bf5, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: HeadCushion_Roughness
-    second: {fileID: 2800000, guid: ee9517a304ee5a649ba535d0c25382ff, type: 3}
+    second: {fileID: 2800000, guid: 93f44c286bf4aad42bf7ea95f36d1d4a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
@@ -93,37 +93,37 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Helmet_Metallic
-    second: {fileID: 2800000, guid: 26caebe0bf1c2e241b8b4c184ae7a54c, type: 3}
+    second: {fileID: 2800000, guid: cd45d6aad16bc5b449dd19cc80f975c7, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Helmet_Normal
-    second: {fileID: 2800000, guid: 0701d9a1cd70a9240ab82e54c8a31679, type: 3}
+    second: {fileID: 2800000, guid: 394b5a2036d3be94cb4d3811f8c8a900, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Helmet_Roughness
-    second: {fileID: 2800000, guid: 4cfdc843c4273ec4097705783ee0fcad, type: 3}
+    second: {fileID: 2800000, guid: 1e4caf988ac7ac341ad57fa7376aa2fa, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: SmallDetails_BaseColor
-    second: {fileID: 2800000, guid: fd5a9d5595ba8744a97af30e4b83c038, type: 3}
+    second: {fileID: 2800000, guid: 118fb89c720dc434b88aa08a5d69e29a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: SmallDetails_Metallic
-    second: {fileID: 2800000, guid: a00d33d47cf0b9c43aa7587d6399913f, type: 3}
+    second: {fileID: 2800000, guid: ff897aef2baee5644b03383a3129547c, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: SmallDetails_Normal
-    second: {fileID: 2800000, guid: 9210e91b3a2f51f4a8ebada38346f4e1, type: 3}
+    second: {fileID: 2800000, guid: 86fdefc4c0fccc64eb8e24eedc4f2433, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: SmallDetails_Roughness
-    second: {fileID: 2800000, guid: e0d7716bf5718ac4bb8d8f0c72b328eb, type: 3}
+    second: {fileID: 2800000, guid: e5c005aa6eca89d4f9268c7a2bab1f58, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

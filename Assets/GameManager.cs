@@ -10,10 +10,12 @@ public class GameManager : MonoBehaviour
     public GameObject uiObject1;
     public GameObject uiObject2;
     public GameObject uiObject3;
+    public GameObject uiObject4;
 
     private bool isObject1Grabbed = false;
     private bool isObject2Grabbed = false;
     private bool isObject3Grabbed = false;
+    private bool isObject4Grabbed = false;
 
     private void Awake()
     {
@@ -48,6 +50,10 @@ public class GameManager : MonoBehaviour
                 Debug.Log("correctShoes");
                 isObject3Grabbed = status;
                 break;
+            case "CorrectGloves":
+                Debug.Log("correctGloves");
+                isObject4Grabbed = status;
+                break;
             case "WrongObject":
                 if (controller != null)
                 {
@@ -72,6 +78,10 @@ public class GameManager : MonoBehaviour
         if (isObject3Grabbed)
         {
             uiObject3.SetActive(true);
+        }
+        if (isObject4Grabbed)
+        {
+            uiObject4.SetActive(true);
         }
     }
 }
