@@ -7,10 +7,10 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
 
-    public GameObject uiObject1;
-    public GameObject uiObject2;
-    public GameObject uiObject3;
-    public GameObject uiObject4;
+    public Text uiObject1;
+    public Text uiObject2;
+    public Text uiObject3;
+    public Text uiObject4;
 
     private bool isObject1Grabbed = false;
     private bool isObject2Grabbed = false;
@@ -69,19 +69,19 @@ public class GameManager : MonoBehaviour
     {
         if (isObject1Grabbed)
         {
-            uiObject1.SetActive(true);
+            uiObject1.color = Color.green;
         }
         if (isObject2Grabbed)
         {
-            uiObject2.SetActive(true);
+            uiObject2.color = Color.green;
         }
         if (isObject3Grabbed)
         {
-            uiObject3.SetActive(true);
+            uiObject3.color = Color.green;
         }
         if (isObject4Grabbed)
         {
-            uiObject4.SetActive(true);
+            uiObject4.color = Color.green;
         }
     }
 }
